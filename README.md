@@ -1,4 +1,4 @@
-# Cold Email Generator using LLMs and Generative A
+# Cold Email Generator using LLMs and Generative AI
 ## Overview
 This project is a prototype for generating cold emails tailored to job postings scraped from company websites. Using state-of-the-art Generative AI models (ChatGroq), the app extracts relevant job information (role, skills, experience, etc.) and crafts personalized emails, including links to your portfolio based on the job requirements.
 

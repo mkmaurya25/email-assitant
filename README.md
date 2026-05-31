@@ -17,7 +17,7 @@ Features
 ## Installation
 1. Clone the repository.
 ```bash
-git clone https://github.com/your-username/mail-crafter.git
+git clone https://github.com/mkmaurya25/mail-crafter.git
 cd mail-crafter
 ```
 2. Create Virtual Environment
